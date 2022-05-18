@@ -1,2 +1,4 @@
 # fire-in-the-hole
-Thesis work
+---
+
+[Researching result notebook](fire-in-the-hole.ipynb)
